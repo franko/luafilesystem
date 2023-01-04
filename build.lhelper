@@ -1,0 +1,5 @@
+CC="${CC:-gcc}"
+CXX="${CXX:-g++}"
+BUILD_TYPE="Release"
+
+packages=("lua")
